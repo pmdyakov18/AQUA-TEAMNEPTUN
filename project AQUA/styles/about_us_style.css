@@ -47,7 +47,8 @@
   width:72px;
   height: 64px;
   padding-left: 38%;
-  padding-top:0.9%;
+  padding-top:0%;
+  
 }
 
 #logoname{
@@ -56,7 +57,7 @@
         display: inline;
         padding-left: 16px;
         padding-right: 5px;
-        padding-top: 1%;
+        padding-top: 0%;
         position: absolute;
         text-decoration: none;
         color: #005ef7;
