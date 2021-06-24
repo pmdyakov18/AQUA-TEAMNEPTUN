@@ -44,16 +44,6 @@
     
 }
 
-.round-borders{
-        height: 600px;
-        width: 800px;
-        border-color: #666 #8ebf42;
-        border-image: none;
-        border-radius: 50px 0 50px 0;
-        border-style: solid;
-        border-width: 10px;
-}
-
 #logo{
   width:72px;
   height: 64px;
@@ -67,7 +57,7 @@
         display: inline;
         padding-left: 16px;
         padding-right: 5px;
-        padding-top:27px;
+        padding-top: 1%;
         position:absolute;
         text-decoration: none;
         color: #704d09;
@@ -83,7 +73,6 @@ a{
     font-size: 18px;
     font-family: sans-serif;
 }
-
 
 nav{
     background-color: #4c8aed;
