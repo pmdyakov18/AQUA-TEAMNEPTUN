@@ -108,17 +108,15 @@ body{
 
  @media only screen and (max-width: 1620px) {
   #logoname{
-        font-size: 10px;
+        font-size: 40px;
         font-family: arial black;
         display: inline;
-        padding-left: 1px;
+        padding-left: 16px;
         padding-right: 5px;
         padding-top: 1.09%;
         position: absolute;
         text-decoration: none;
         color: white;
 }
-#logo{
-        display:none;
-}
+
 }
