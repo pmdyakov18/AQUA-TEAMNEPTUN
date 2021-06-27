@@ -103,7 +103,7 @@ p{
   font-size: 25px;
 }
 
-@media only screen and (max-width: 1700px) {
+@media only screen and (max-width: 1620px) {
   #logoname{
         font-size: 40px;
         font-family: arial black;
@@ -114,6 +114,17 @@ p{
         position: absolute;
         text-decoration: none;
         color: white;
+}
+
+.menubutton{
+    
+    font-size: 38px;
+    
+}
+
+.menu-content a{
+    font-size: 30px;
+
 }
 
 }
