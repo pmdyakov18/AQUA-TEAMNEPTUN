@@ -35,10 +35,10 @@ Technologies we used:
 
 - Petar Dyakov
 - Jacqueline Yordanova
-- Mario Boshe
+- Mario Boshev
 - Venilin Donchev
 - Mario Zlatev
--  Georgi Trendafilov
+- Georgi Trendafilov
 
 ## Presentation and Documentation
 
