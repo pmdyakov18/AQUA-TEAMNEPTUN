@@ -56,7 +56,7 @@
 .borders{
                 height: 375px;
                 width: 800px;
-                border-color: #666 #8ebf42;
+                border-color: #0063B2FF #9CC3D5FF;
                 border-image: none;
                 border-radius: 0 50 0 50;
                 border-style: solid;
@@ -118,6 +118,7 @@ p{
   text-align: center;
   font-family: sans-serif;
   font-size: 25px;
+  color: white;
 }
 
 body{
