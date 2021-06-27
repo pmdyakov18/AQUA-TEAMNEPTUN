@@ -28,7 +28,7 @@
 Technologies we used:
 * HTML5
 * CSS3
-*
+* C++
 
 
 ## Our Team
