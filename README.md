@@ -33,12 +33,12 @@ Technologies we used:
 
 ## Our Team
 
-- 
-- 
-- 
-- 
--
--  
+- Petar Dyakov
+- Jacqueline Yordanova
+- Mario Boshe
+- Venilin Donchev
+- Mario Zlatev
+-  Georgi Trendafilov
 
 ## Presentation and Documentation
 
