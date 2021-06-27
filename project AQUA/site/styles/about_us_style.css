@@ -1,0 +1,164 @@
+/*Menu CSS*/
+
+.menubutton{
+    background-color: #4c8aed;
+    color: white;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    
+}
+
+.menu{
+    position: absolute;
+    display: inline-block;
+    padding-top: 0%;
+}
+
+.menu-content{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px;
+}
+
+.menu-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.menu-content a:hover{
+    background-color: #ddd;
+
+}
+
+.menu:hover .menu-content{
+    display: block;
+
+}
+
+.menu:hover .menubutton{
+    background-color: #2472f0;
+
+}
+
+/*Image Border CSS*/
+
+.center {
+   width: 100%;
+   height: 100%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+                
+}
+
+.borders{
+   height: 40%;
+   width: 70%;
+   border-color: #0063B2FF #9CC3D5FF;
+   border-image: none;
+   border-radius: 0 50 0 50;
+   border-style: solid;
+   border-width: 10px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+/*Logo CSS*/
+
+#logo{
+  width:72px;
+  height: 64px;
+  padding-left: 37%;
+  padding-top:0%;
+  
+}
+
+#logoname{
+        font-size: 40px;
+        font-family: arial black;
+        display: inline;
+        padding-left: 16px;
+        padding-right: 5px;
+        padding-top: 0%;
+        position: absolute;
+        text-decoration: none;
+        color: white;
+}
+
+/*Body CSS*/
+
+body{
+    background-image: url("../images/about_us_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+ul{
+    list-style-type: none;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+a{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+nav{
+    background-color: #4c8aed;
+    margin-top: -16px;
+    margin-left: -50px;
+    margin-right: -8px;
+    height: 95px;
+}
+
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 20px;
+  color: white;
+  font-size: 40px;
+
+}
+
+p{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+/*Responsive site CSS*/
+
+@media only screen and (max-width: 1620px) {
+    
+  #logoname{
+        font-size: 40px;
+        font-family: arial black;
+        display: inline;
+        padding-left: 16px;
+        padding-right: 5px;
+        padding-top: 0%;
+        position: absolute;
+        text-decoration: none;
+        color: white;
+}
+
+.menubutton{
+    
+    font-size: 38px;
+    
+}
+
+.menu-content a{
+    font-size: 30px;
+
+}
+    
+}
