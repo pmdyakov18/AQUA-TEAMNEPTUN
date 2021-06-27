@@ -1,3 +1,4 @@
+/*Menu CSS*/
 .menubutton{
     background-color: #4c8aed;
     color: white;
@@ -43,6 +44,8 @@
 
 }
 
+/*Imagge Border CSS*/
+
 .center {
 
                 width: 100%;
@@ -66,6 +69,7 @@
 }
 
 
+/*Logo CSS*/
 
 #logo{
   width:72px;
@@ -85,6 +89,8 @@
         text-decoration: none;
         color: white;
 }
+
+/*Body CSS*/
 
 ul{
     list-style-type: none;
@@ -129,6 +135,8 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
+/*Responsive site CSS*/
 
  @media only screen and (max-width: 1620px) {
   #logoname{
