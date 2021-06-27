@@ -152,6 +152,11 @@ body{
     text-align: center;
 }
 
+.download_button:hover .download_link{
+    background-color: #2472f0;
+
+}
+
 /*Responsive site CSS*/
 
  @media only screen and (max-width: 1620px) {
